@@ -2,7 +2,7 @@
   <tool name="Flash" description="Flash app" showInMainMenu="false" showInEditor="false" showInProject="false" showInSearchPopup="false" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
     <exec>
       <option name="COMMAND" value="C:\Program Files (x86)\SEGGER\JLink\JFlash.exe" />
-      <option name="PARAMETERS" value="-openprjprogram.jflash -open.\repos\ClionIntegration\easystartweb\cmake-build-armcc-mingw\easystartweb.hex -auto -exit" />
+      <option name="PARAMETERS" value="-hide -openprjprogram.jflash -open.\repos\ClionIntegration\easystartweb\cmake-build-armcc-mingw\easystartweb.hex -auto -disconnect -startapp -exit" />
       <option name="WORKING_DIRECTORY" value="$USER_HOME$/Documents/projects/Eberspaecher" />
     </exec>
   </tool>
