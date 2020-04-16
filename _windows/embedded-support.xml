@@ -1,0 +1,5 @@
+<application>
+  <component name="EmbeddedDevelopment">
+    <option name="openOcdLocation" value="C:\Users\a.wojtowicz\.espressif\tools\openocd-esp32\v0.10.0-esp32-20190313\openocd-esp32\bin\openocd.exe" />
+  </component>
+</application>
