@@ -4,8 +4,6 @@
       <toolchain name="MinGW" toolSetKind="MINGW" toolSetPath="C:\Program Files\mingw-w64\x86_64-8.1.0-win32-seh-rt_v6-rev0\mingw64" debuggerKind="CUSTOM_GDB" customGDBPath="C:\Program Files\mingw-w64\x86_64-8.1.0-win32-seh-rt_v6-rev0\mingw64\bin\gdb.exe" />
       <toolchain name="Visual Studio" toolSetKind="MSVC" toolSetPath="C:\Program Files (x86)\Microsoft Visual Studio 14.0" debuggerKind="BUNDLED_LLDB" />
       <toolchain name="GNU_ARM-MinGW" toolSetKind="MINGW" toolSetPath="C:\Program Files\mingw-w64\x86_64-8.1.0-win32-seh-rt_v6-rev0\mingw64" debuggerKind="CUSTOM_GDB" customGDBPath="C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\bin\arm-none-eabi-gdb.exe" />
-      <toolchain name="MinGW ARMCC" toolSetKind="MINGW" toolSetPath="C:\Program Files\mingw-w64\x86_64-8.1.0-win32-seh-rt_v6-rev0\mingw64" customCCompilerPath="C:\Keil\ARM\ARMCC\bin\armcc.exe" customCXXCompilerPath="C:\Keil\ARM\ARMCC\bin\armcc.exe" debuggerKind="CUSTOM_GDB" customGDBPath="C:\Program Files (x86)\GNU Tools Arm Embedded\9 2019-q4-major\bin\arm-none-eabi-gdb.exe" />
-      <toolchain name="Visual Studio ARMCC" toolSetKind="MSVC" toolSetPath="C:\Program Files (x86)\Microsoft Visual Studio 14.0" customCCompilerPath="C:\Keil\ARM\ARMCC\bin\armcc.exe" customCXXCompilerPath="C:\Keil\ARM\ARMCC\bin\armcc.exe" debuggerKind="BUNDLED_LLDB" />
     </toolchains>
   </component>
 </application>
