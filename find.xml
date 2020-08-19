@@ -21,6 +21,7 @@
     <mask>*.c, *.h</mask>
     <mask>*c, *.h</mask>
     <mask>*</mask>
+    <mask>*txt</mask>
     <mask>*c, *.h, *.cpp, *.hpp</mask>
   </component>
 </application>
